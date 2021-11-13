@@ -1,6 +1,6 @@
 # Starbucks-Happy-hour
 Landing Page Starbucks - HTML / CSS<br>
-<h3><a href="https://starbucks-happy-hour.vercel.app" target="_blank">Acesse a Página aqui!</a></h3>
+<h3><a href="https://starbucks-happy-hour.vercel.app"  target="_blank">Acesse a Página aqui!</a></h3>
 
 
 <h3>WEB</h3>
