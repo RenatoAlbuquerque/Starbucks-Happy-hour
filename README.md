@@ -1,6 +1,6 @@
 # Starbucks-Happy-hour
 Landing Page Starbucks - HTML / CSS<br>
-obs: Imagens não estão rederizando no GitHub Pages.
+
 
 <h3>WEB</h3>
 <img width="500px" src="https://user-images.githubusercontent.com/84095953/130682811-9c527b0c-7b14-4b8c-bce6-8e35038b4637.png">
